@@ -1,2 +1,18 @@
-# Console-Game-C-
-Consolidation of concepts seeing in C++ OOP through a game that's played through the console
+# Ejercicios - Básicos
+
+Ubíquese en la **carpeta fuente del proyecto** deseado, use:
+
+```
+cd <assignments/Proyecto>
+
+Ej.- cd assignments/Proyecto
+
+```
+Regrese a la **carpeta fuente origen de todos los proyectos**, use:
+
+```
+Ej.- cd ../../
+
+```
+
+- Proyecto (```cd assignments/Proyecto```)
